@@ -1,0 +1,12 @@
+body {
+  padding: 20px;
+}
+
+button {
+  margin-right: 10px;
+}
+
+/* me sirve para estilar los Link porque se traducen a "a" */
+a{
+  margin-right: 1rem;
+}
